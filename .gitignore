@@ -68,6 +68,10 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+# IDE
+.idea
+*.iml
+
 # dotenv environment variables file
 .env
 .env.test

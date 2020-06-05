@@ -1,0 +1,19 @@
+{
+  "name": "bin-day",
+  "version": "1.0.0",
+  "description": "Alexa skill",
+  "main": "index.js",
+  "repository": "https://github.com/liamsorsby/bin-day",
+  "author": "liam.sorsby@sky.com",
+  "license": "GPL-3.0",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.11",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+  }
+}
